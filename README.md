@@ -1,4 +1,22 @@
-## Hi there 👋
+# Hi! I'm Ezequiel 👋
+
+Full Stack Developer from Brazil.
+
+Currently building web applications using:
+
+- Next.js
+- React
+- TypeScript
+- Supabase
+- PostgreSQL
+
+## Featured Projects
+
+### OrigemMais
+Scheduling platform for autonomous professionals.
+
+### Studies
+Personal learning projects and experiments.
 
 <!--
 **Ezeckye/Ezeckye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
