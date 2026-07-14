@@ -1,23 +1,56 @@
-# Hi! I'm Ezequiel 👋
+# Hi, I'm Ezequiel 👋
 
 Full Stack Developer from Brazil.
 
-Currently building web applications using:
+I build modern web applications using React, Next.js, TypeScript and Supabase.
 
+## Featured Project
+
+### 🚀 OrigemMais
+A scheduling platform for independent professionals.
+
+**Tech Stack**
 - Next.js
 - React
 - TypeScript
 - Supabase
 - PostgreSQL
 
-## Featured Projects
+🔗 https://origemmais.vercel.app
 
-### OrigemMais
-Scheduling platform for autonomous professionals.
+---
 
-### Studies
-Personal learning projects and experiments.
+## Other Projects
 
+### NLW Unite
+React application developed during Rocketseat's NLW.
+
+🔗 https://ezeckye.github.io/nlw-unite/
+
+### Alura+
+Landing page project.
+
+🔗 https://estudoaluraplus-zeta.vercel.app/
+
+### AluraBook
+Responsive bookstore landing page.
+
+🔗 https://ezeckye.github.io/alurabook/
+
+### Imersão Alura
+JavaScript project developed during Alura immersion.
+
+🔗 https://ezeckye.github.io/imersaoalura/
+
+### Barbearia
+HTML and CSS practice project.
+
+🔗 https://ezeckye.github.io/projeto-barbearia/
+
+### Cardápio
+Interactive restaurant menu.
+
+🔗 https://ezeckye.github.io/cardapadio/
 <!--
 **Ezeckye/Ezeckye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
